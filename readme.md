@@ -36,7 +36,7 @@ Considering the information above, some questions were made to guide the project
 
 
 
-![Florida](https://github.com/guilhermeoliveiradoc/Shark-Project/blob/main/florida1.jpg)
+![Florida](https://github.com/guilhermeoliveiradoc/Shark-Project/blob/main/florida.JPG)
 
 
 
