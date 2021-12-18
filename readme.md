@@ -54,28 +54,42 @@ The next step was to calculate where were the places the attacks were more frequ
 
 The main areas that occurs shark attacks are:
 
+
 Florida - 31.2%
+
 New South Wales - 11.6%
+
 California - 8%
+
 Queensland - 7.3%
+
 Hawaii - 7.1%
+
 
 And Countries:
 
+
 USA: 51%
+
 Australia: 26%
+
 South Africa: 12.8%
+
 New Zeland: 2%
+
 Brazil: 1.9%
 
 
 
 Both the hypotesis seem to be corroborated by the data. In Florida there were a decrease in the overall attack cases in the last decade, and also in the last 5 years:
 
-Last Decade:  13.9% of decrease
-Last 5 years: 6.5% of decrease
-Max cases: 44 in 2003
-Mean: 11 cases/year
+Last Decade:     13.9% of decrease
+
+Last 5 years:     6.5% of decrease
+
+Max cases:        44 in 2003
+
+Mean:             11 cases/year
 
 
 ![Gráfico Florida](https://github.com/guilhermeoliveiradoc/Shark-Project/blob/main/florida11.JPG)
@@ -85,8 +99,10 @@ Mean: 11 cases/year
 
 The data for North Carolina also confirmed the biologist: there has been a rise in the number of cases.
 
-Between 2005 - 2016: 2.81 cases / year
-Between 2011 - 2016: 3,83 cases / year
+Between 2005 - 2016:      2.81 cases / year
+
+Between 2011 - 2016:       3,83 cases / year
+
 The highest point was in 2015, with 8 cases
 
 
@@ -95,9 +111,12 @@ The highest point was in 2015, with 8 cases
 
 The data related to New South Wales also paired with the biologist's saying. The area experienced a significant rise in its mean between the two decades observed.
 
-Between 1997 - 2006: 3.55 atacks / year
-Between 2016 - 2007: 11.1 attacks / year
-The mean of the whole period: 3.64 attacks/ year
+Between 1997 - 2006:      3.55 atacks / year
+
+Between 2016 - 2007:      11.1 attacks / year
+
+The mean of the whole period:   3.64 attacks/ year
+
 The peak was in 2009, with 19 attacks
 
 
