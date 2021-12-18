@@ -7,7 +7,7 @@ The idea of this project was to investigate if the data confirmed some theories 
 Besides this investigation, another goal was to import data from excel, clean it, and investigate if they matched with the theories read previously.
 
 
-![Sharks]{Downloads\shark1.jpg}
+![Sharks](guilhermeoliveiradoc/Shark-Project/shark1.jpg)
 
 
 ## Seting up the problem
