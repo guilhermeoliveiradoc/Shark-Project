@@ -1,6 +1,6 @@
 # Sharks location and global warming
 
-##Introduction
+## Introduction
 
 The idea of this project was to investigate if the data confirmed some theories about the new patterns of shark attacks, and it's relation with global warming. Two places were used to make this analysis: Florida and New South Wales.
 
@@ -10,7 +10,7 @@ Besides this investigation, another goal was to import data from excel, clean it
 ![Sharks]{Downloads\shark1.jpg}
 
 
-##Seting up the problem
+## Seting up the problem
 
 Annualy the blacktip sharks migrate from North Carolina to southern Florida during the coldest months. Acording to the biologist Stephen Kajiura, this pattern has been disturbed by the unusual heat of the season, that desistimulates the male sharks to change their locality.
 
