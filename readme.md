@@ -40,7 +40,7 @@ Considering the information above, some questions were made to guide the project
 
 
 
-## Processing the drata
+## Processing the data
 
 The first action was to import the database and make some changes on it, in order to organize the information in separated columns. After that, some operations were made to check if my main variables were valid, and if modifications were needed.
 
