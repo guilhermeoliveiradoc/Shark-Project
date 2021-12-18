@@ -2,12 +2,12 @@
 
 ## Introduction
 
-The idea of this project was to investigate if the data confirmed some theories about the new patterns of shark attacks, and it's relation with global warming. Two places were used to make this analysis: Florida and New South Wales.
+The idea of this project was to investigate if the provided data confirmed some theories about the new patterns of shark attacks, and its relation with global warming. Two locations were explored in this analysis: Florida and New South Wales.
 
 Besides this investigation, another goal was to import data from excel, clean it, and investigate if they matched with the theories read previously.
 
 
-![Sharks](Shark-Project/shark1.jpg)
+![Sharks](https://github.com/guilhermeoliveiradoc/Shark-Project/blob/main/shark1.jpg)
 
 
 ## Seting up the problem
@@ -30,13 +30,15 @@ Considering the information above, some questions were made to guide the project
 - is there any other information that corroborates the hypotesis?
 
 
+![Florida](https://github.com/guilhermeoliveiradoc/Shark-Project/blob/main/florida1.jpg)
+
 ## Processing the drata
 
 The first action was to import the database and make some changes on it, in order to organize the information in separated columns. After that, some operations were made to check if my main variables were valid, and if modifications were needed.
 
 There were some invalid information in the 'Year' and 'Fatal' column that were adjusted, and also a data domain were set - I considered the data stored after 1900's, were the quality and stability of the occurences are more reliable.
 
-The next step was to calculate where were the places were the attacks took place more frequently, and a brief investigation on the locations that has been suffering this alterations were made - for instance, I analised the number of attacks for North Carolina to check if it suffered a increase in the attacks rating as the articles were mentioning, and indeed it has increased.
+The next step was to calculate where were the places the attacks were more frequent, and a brief investigation on the locations that has been suffering this alterations were made - for instance, I analised the number of attacks for North Carolina to check if it suffered a increase in the attacks rating as the articles were mentioning, and indeed it has increased.
 
 
 ## Results
@@ -56,14 +58,24 @@ Between 2005 - 2016: 2.81 cases / year
 Between 2011 - 2016: 3,83 cases / year
 The highest point was in 2015, with 8 cases
 
-The data related to New South Wales also paired with the biologist's saying. The area experienced a significant rise in it's mean between the two decades observed.
+The data related to New South Wales also paired with the biologist's saying. The area experienced a significant rise in its mean between the two decades observed.
 
 Between 1997 - 2006: 3.55 atacks / year
 Between 2016 - 2007: 11.1 attacks / year
 The mean of the whole period: 3.64 attacks/ year
 The peak was in 2009, with 19 attacks
 
-## Another intersting factor
+## Another interesting factor
 During the research and readings, a information seemed relevant to the context: we can see the overall increase in the attacks, even with the population of sharks dramatically smaller. According to The Guardian:
 
-_Italico_    "Tiger shark numbers have dropped by more than 70% in the past 30 years. As for whites? Recent surveys of the species, legally protected as “vulnerable”, suggest their numbers are stable, although population modelling indicates they may be increasing slightly"
+    _"Tiger shark numbers have dropped by more than 70% in the past 30 years. As for whites? Recent surveys of the species, legally protected as “vulnerable”, suggest their numbers are stable, although population modelling indicates they may be increasing slightly"_
+
+
+## References
+1. https://www.nationalgeographic.com/environment/article/costa-rica-shark-island-now-massive-marine-reserve
+2. https://www.tampabay.com/environment/blacktip-sharks-begin-annual-migration-to-floridas-south-atlantic-coast-20190228/
+3. https://www.nationalgeographic.com/animals/article/animals-sharks-oceans-global-warming
+4. https://oceanleadership.org/more-sharks-ditching-annual-migration-as-ocean-warms/
+5. https://edition.cnn.com/2020/01/22/us/florida-shark-attack-capital-trnd/index.html
+6. https://www.firstcoastnews.com/article/life/animals/a-history-of-shark-attacks-in-florida-jacksonville-tampa-west-palm-beach-stuart-pensacola-panama-city-fernandina/77-880716c6-d500-4cb5-9f8c-6ae376692873
+7. https://www.mynews13.com/fl/orlando/news/2019/01/28/shark-attacks-are-down--but-florida-is-still-shark-bite-capital
