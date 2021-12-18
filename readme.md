@@ -52,6 +52,24 @@ The next step was to calculate where were the places the attacks were more frequ
 
 ## Results
 
+The main areas that occurs shark attacks are:
+
+Florida - 31.2%
+New South Wales - 11.6%
+California - 8%
+Queensland - 7.3%
+Hawaii - 7.1%
+
+And Countries:
+
+USA: 51%
+Australia: 26%
+South Africa: 12.8%
+New Zeland: 2%
+Brazil: 1.9%
+
+
+
 Both the hypotesis seem to be corroborated by the data. In Florida there were a decrease in the overall attack cases in the last decade, and also in the last 5 years:
 
 Last Decade:  13.9% of decrease
